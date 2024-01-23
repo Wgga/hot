@@ -7,7 +7,7 @@
 </div>
 
 ## 说明
-<strong>本库移植于[imsyy](https://github.com/imsyy)大神的 [DailyHot](https://github.com/imsyy/DailyHot) Public，如有需要请看原版</strong>
+<strong>本库移植于[imsyy](https://github.com/imsyy)大神的 [DailyHot](https://github.com/imsyy/DailyHot) Public，如有需要请看原版。</strong>
 
 
 ## 示例
