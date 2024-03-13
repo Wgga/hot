@@ -7,8 +7,8 @@ import axios from "@/api/request";
  * @returns
  */
 export const getHotLists = (type, isNew) => {
-    return axios({
-        method: "GET",
-        url: `/${type}${isNew ? "/new" : "/"}`,
-    });
+	return axios({
+		method: "GET",
+		url: `/${type}${isNew ? "/new" : "/"}`,
+	});
 };
